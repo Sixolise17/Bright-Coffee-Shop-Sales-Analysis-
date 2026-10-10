@@ -92,7 +92,7 @@ The expected outcome is a clearer understanding of the coffee shop's revenue dri
 
 The case study brief permits a range of tools. Document the tools actually used for your final submission:
 
-- **Microsoft Excel / CSV** — source data preparation, validation, and spreadsheet analysis.
+- **Google Sheets / CSV** — source data preparation, validation, and spreadsheet analysis.
 - **SQL** — data transformation, aggregation, and querying sales performance.
 - **Databricks** — data loading and transformation environment, if used.
 - **Power BI or Lovable** — dashboard design and interactive data visualization, depending on the implementation used.
